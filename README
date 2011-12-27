@@ -1,1 +1,9 @@
-This file was created by IntelliJ IDEA 10.5.1 for binding GitHub repository
+The purpose of this project is to provide a library
+that you can just drop in and use as your persistence layer
+without having to write the whole boiler plate code again and
+again . I hope this will be useful in particular when you
+are trying some poc and need a persistence layer but do not want
+to spend too much time worrying and coding the repository layer.
+
+I have just started writing and it will take sometime before it is in
+some usable state.
